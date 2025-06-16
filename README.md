@@ -11,3 +11,5 @@ Mentor Name: Dr. Han
 Research Title: Filtering Prompt Tuning to Avoid Further Training
 
 This project is concerned around refining the supervised learning model with prompt tuning, aiming to improve accuracy of the LLM by using a gate that predicts the quality/usability of soft prompts so that no further training is needed.
+
+I'm currently trying to reproduce the Prompt Tuning v2 from Liu et al., (2021), which can be found here: https://github.com/THUDM/P-tuning-v2 
